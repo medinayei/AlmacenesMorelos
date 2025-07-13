@@ -67,3 +67,10 @@ public class AdminSede extends Usuario {
         return clientes;
     }
 }
+/**
+ *Mena albino Israel
+ * Benjamin
+ * Jenifer
+ *Yeimi Media Mariaca
+ * yovani David
+ * */

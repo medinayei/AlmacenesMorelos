@@ -56,3 +56,10 @@ public class Cliente extends Usuario {
         return almacenesAdquiridos;
     }
 }
+/**
+ *Mena albino Israel
+ * Benjamin
+ * Jenifer
+ *Yeimi Media Mariaca
+ * yovani David
+ * */

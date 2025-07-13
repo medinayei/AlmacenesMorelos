@@ -85,3 +85,10 @@ public class Almacen {
         return fechaRegistro;
     }
 }
+/**
+ *Mena albino Israel
+ * Benjamin
+ * Jenifer
+ *Yeimi Media Mariaca
+ * yovani David
+ * */
