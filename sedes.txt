@@ -1,2 +1,8 @@
 A1-20250702-5165 | morelos
 A1-20250702-6250 | ayala
+A1-20250710-5661 | Civac
+A1-20250710-4949 | civac
+A2-20250710-7943 | Cuernavaca
+A3-20250710-3944 | Jiutepec
+A1-20250712-2589 | cuernavaca
+A2-20250712-1560 | jiutepec
